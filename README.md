@@ -1,13 +1,10 @@
 # emmerical-
 
+summary -
+Your objective is to alter starter code to create the back end for an e-commerce site. You'll set up an Express.js API to interface with a MySQL database using Sequelize.
 
-https://drive.google.com/file/d/13BnKbyIFUZTm1uTQbYrUxybfHRU-x_zQ/view
-technology used
+https://drive.google.com/file/d/1rqPeqm4I9QgyOl7TV_DyJPzwyHWxM4AJ/view
 
-javascript
-express.js
-node.js
-schema.sql
 
 Criteria Reqiurements 
 
@@ -24,3 +21,15 @@ THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
 THEN I am able to successfully create, update, and delete data in my database
 ```
+technology used
+
+javascript
+express.js
+node.js
+schema.sql
+
+Contributors -
+Abdikadir Dahir
+
+https://github.com/Abdikadirdahir
+
